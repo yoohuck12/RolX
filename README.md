@@ -1,6 +1,10 @@
 ReFeX and RolX
 ===============================================
 [![codebeat badge](https://codebeat.co/badges/f688b042-0641-4aa7-a122-9719e3372ca9)](https://codebeat.co/projects/github-com-benedekrozemberczki-rolx-master) [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/RolX.svg)](https://github.com/benedekrozemberczki/RolX/archive/master.zip)⠀[![benedekrozemberczki](https://img.shields.io/twitter/follow/benrozemberczki?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=benrozemberczki)
+<p align="justify">
+코드를 보니, RolX 에서 제안한 Role 자동 구분 및 그루핑 기법이 제대로 구현되지 않은 것으로 보인다.
+단순하게 Tensorflow 를 활용해서 refex 가 해내는 feature vector 를 train/predict 할 수 있도록 만들어두었다.
+</p>
 
 <p align="justify">
 ReFex 는 대형 그래프에서 노드의 구조적 속성을 묘사하기 위한 바이너리 특색을 만들어내는 구조적 그래프 특색 추출 알고리즘이다.
